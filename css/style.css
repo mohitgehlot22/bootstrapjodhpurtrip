@@ -1,0 +1,178 @@
+
+  .card-img-top {
+    width: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+.slick-dots{
+    display: none !important;
+}
+*{
+    font-family:'Times New Roman', Times, serif;
+    list-style: none;
+}
+a{
+    text-decoration: none !important;
+    color: inherit !important;
+}
+.info{
+    background-color: #00bdbb;
+    height: 70px;
+}
+.contect{
+    font-size: 13px;
+    padding-top:15px !important; 
+}
+.navbar{
+    width: 100% !important;
+}
+li{
+    padding: 0px 5px !important;
+    font-size: 14px;
+}
+.home{
+    color: #00bdbb;
+}
+.nav{
+    top: 35px;
+}
+.enquiry{
+    background-color: #00bdbb !important;
+    color: white;
+    font-size: 25px;
+    width: 100% !important;
+    position: fixed;
+    bottom: 0px;
+}
+.call_us{
+    border-right: 0.1px solid white;
+}
+.icones{
+    position:fixed;
+    right: 0px;
+    top: 200px;
+    display: none;
+    width: 65px;
+    margin-right: 2px;
+}
+.icon{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #00bdbb;
+}
+.image_jodhpur{
+    background: url(../img/1.jpg) center center ;
+    background-size: 100% 100%;
+    height: 555px;
+}
+.heding{
+    padding-top: 175PX;
+    font-size: 80px;
+}
+.button_reda{
+    padding-top: 70px;
+}
+.read{
+    background-color: #00bdbb;
+    border-radius: 40px;
+}
+.welcome{
+    font-size: 40px;
+    padding-top: 80px;
+    padding-left: 26px;
+}
+.about{
+    border-left:3px solid #00bdbb ;
+}
+.about_jodhpur{ 
+    margin-top: 60px;
+    font-size: 30px;
+}
+.about span{
+    color: #00bdbb;
+}
+.trip{
+    padding-top: 20px;
+}
+.guda{
+    padding-top: 40px !important;
+}
+.bluecity{
+    height: 425px;
+    background:url(../img/2.jpg);
+    background-size: 100% 100%;
+}
+.tours {
+    padding-top: 65px;
+    font-size: 40px;
+}
+.rupee{
+    padding: 10px 0px;
+    background-color: #00bdbb;
+    font-size: 20px;
+}
+.rupee span:nth-child(1){
+    padding-left: 10px;
+}
+.rupee span:nth-child(2){
+    padding-left: 55px;
+    padding-right:20px;
+}
+.card img{
+    height: 270px;
+}
+.all{
+    border: 2px solid #00bdbb;
+    border-radius: 15px;
+    padding:5px 25px;
+    color: #00bdbb;
+}
+.our{
+    font-size: 40px;
+    padding-top: 10px;
+}
+.gallry_img img{
+    width: 100%;
+    height: 265px;
+}
+.bodr{
+    border-bottom: 4px solid #00bdbb;
+}
+.futr{
+    background-color: #333333;
+}
+.f_heding{
+    font-size: 38px;
+    padding-top: 60px;
+} 
+.f_heding span{
+    color: #00bdbb;
+}      
+.email span{
+    color: #00bdbb;
+}
+.new{
+    padding-top: 60px;
+}
+.mail{
+    border-bottom:2px solid white ;
+}
+.use{
+    padding-top:60px;
+}
+.contect_info{
+    padding-top:60px ;
+}
+.view{
+    margin-top: 200px;
+}
+.slick-arrow{
+    background-color: #00bdbb;
+    color: black;
+}
+
+.slick-arrow:hover{
+    background-color: #00bdbb;
+    color: black;
+}

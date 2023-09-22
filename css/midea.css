@@ -1,0 +1,36 @@
+@media only  screen and (min-width:0px) and (max-width:992px) {
+.nav{
+    top:0px
+}
+.backg{
+    background-color: white !important;   
+}
+.image_jodhpur{
+    height: 350px;
+}
+.heding{
+    padding-top:140px;
+    font-size:30px;
+}
+.button_reda{
+    padding: 20px;
+}
+.welcome{
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 50px;
+}
+.rupee{
+    font-size: 16px !important;
+}
+.rupee span:nth-child(1){
+    padding-left: 0px;
+}
+.rupee span:nth-child(2){
+    padding-left: 0px;
+    padding-right:0px;
+}
+.card img{
+    height: 270px;
+}
+}
